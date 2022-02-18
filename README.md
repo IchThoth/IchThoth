@@ -1,16 +1,13 @@
-### Hi there 👋
+### Konbanwa I'm Shalom Tata 👋
 
-<!--
-**IchThoth/IchThoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My goal is to become a full stack developer
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Mint
+- 🌱 I’m currently learning Everything 😂
+- 👯 I’m looking to collaborate on Front end and Blockchain
+- 🤔 I’m looking for help with Web 3
+- 💬 Ask me about Everything Tech and software
+- 📫 How to reach me: Twitter[https://twitter.com/Ichthoth]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I play basketball 🏀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
