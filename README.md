@@ -24,14 +24,3 @@ My goal is to become a full stack developer
 
 &nbsp;
 
-## :chart_with_upwards_trend:   My Github and WakaTime Stats
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IchThoth&show_icons=true&theme=radical&border_radius=10" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IchThoth&theme=radical&border_radius=10" />
-</a>
-
-&nbsp;
-
-[![Webdot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IchThoth&theme=radical&border_radius=10)](#)
