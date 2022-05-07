@@ -23,4 +23,14 @@ My goal is to become a full stack developer
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 &nbsp;
+## :chart_with_upwards_trend:   My Github and WakaTime Stats
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ichthoth&show_icons=true&theme=radical&border_radius=10" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ichthoth&theme=radical&border_radius=10" />
+</a>
 
+&nbsp;
+
+[![Ichthoth's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ichthoth&theme=radical&border_radius=10)](#)
