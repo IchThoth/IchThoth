@@ -4,9 +4,10 @@ Feel free to look around and find anything that piques your interest
 
 Email: shalomtata334@gmail.com
 
-* Languages: Go,TypeScript/JavaScript,PHP
-* DBs: PostgreSQL,MongoDB,MariaDB
+* Languages: Go,TypeScript/JavaScript, Python
+* DBs: PostgreSQL,MongoDB,MariaDB, Redis
 * Infrastructure: Terraform,Jenkins,Docker,Google Cloud,AWS,Kubernetes
+* Messaging: Redis, RabbitMQ
  
 
 ### Currently Listening to 
